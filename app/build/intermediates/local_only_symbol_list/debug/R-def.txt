@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+id btnBuild
+id btnPickFolder
+id btnPickIcon
+id etAppName
+id etPackageName
+id etUrl
+id progressBar
+id toolbar
+id tvStatus
+layout activity_main
+mipmap ic_launcher
+string app_name
+string status_ready
+string welcome_message
+style AppTheme
+xml file_paths

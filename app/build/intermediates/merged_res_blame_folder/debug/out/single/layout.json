@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.webtoapk.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.webtoapk.app-main-36:/layout/activity_main.xml"
+    }
+]

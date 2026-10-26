@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.webtoapk.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.webtoapk.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.webtoapk.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.webtoapk.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.webtoapk.app-merged_res-34:/xml_file_paths.xml.flat",
+        "source": "com.example.webtoapk.app-main-36:/xml/file_paths.xml"
+    }
+]

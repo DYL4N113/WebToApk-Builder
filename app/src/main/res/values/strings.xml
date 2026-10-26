@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebToApk</string>
+    <string name="welcome_message">Project Android siap!</string>
+    <string name="status_ready">Siap membuat APK.</string>
+</resources>
