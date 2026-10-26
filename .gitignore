@@ -1,0 +1,11 @@
+# Build folders
+build/
+app/build/
+webview-shell/build/
+
+# Local config
+local.properties
+
+# Keystore
+*.jks
+*.keystore
